@@ -1,6 +1,6 @@
 p{
-  padding-top: 10px;
-  line-height: 5;
+  padding-top: 5px;
+  line-height: 1.5;
 }
 
 body {
@@ -83,31 +83,4 @@ h3 {
   background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
   background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
   text-decoration: none;
-}
-
-.skill-row-1 {
-  margin: 75px auto 75px auto;
-  width: 50%;
-  text-align: left;
-}
-
-.skill-row-2 {
-  margin: 75px auto 75px auto;
-  width: 50%;
-  text-align: right;
-}
-
-.command-line {
-  float: left;
-  width: 200px;
-  position: absolute;
-  left: 150px;
-}
-
-
-.command-line-2 {
-  float: right;
-  width: 200px;
-  position: absolute;
-  right: 150px;
 }
